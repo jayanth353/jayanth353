@@ -8,8 +8,8 @@
 
 
 
-![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayanth353&show_icons=true&theme=onedark)
+![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayanth353&show_icons=true&theme=radical)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth353&hide=scss,less&theme=dark)](https://github.com/jayanth353/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth353&hide=scss,less&theme=radical)](https://github.com/jayanth353/github-readme-stats)
