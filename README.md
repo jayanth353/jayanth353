@@ -12,4 +12,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth353&hide=scss,less)](https://github.com/jayanth353/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth353&hide=scss,less&theme=dark)](https://github.com/jayanth353/github-readme-stats)
