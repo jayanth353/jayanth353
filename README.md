@@ -1,6 +1,6 @@
-# Hello folks <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="50px"> I'm Jayanth
+# Hi there, <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="50px"> I'm Jayanth
  
-I'm  2nd year computer science student.I love to play with the code :smile:.I very much intrested in problem solving.
+I'm  2nd year computer science student.
 
 _"Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and 
 have perseverance to realise the great life"._       _-**Abdul kalam**_ 
@@ -11,7 +11,7 @@ have perseverance to realise the great life"._       _-**Abdul kalam**_
 
 ## Find me elsewhere <img src="https://media.tenor.com/images/81bc7178d6bbfc14a04d6e48742c18ae/tenor.gif" width="30px">
 
-[![Twitter Badge](https://img.shields.io/badge/-@jayanth_nalluri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jayanth_nalluri)](https://twitter.com/jayanth_nalluri) 
+[![Twitter Badge](https://img.shields.io/badge/-@jayanth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jayanth_nalluri)](https://twitter.com/jayanth_nalluri) 
   [![Linkedin Badge](https://img.shields.io/badge/-jayanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayanth-nalluri-580692217/)](https://www.linkedin.com/in/jayanth-nalluri-580692217/) 
   [![Mail Badge](https://img.shields.io/badge/-@jayanth-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jayanth_77_)
 
@@ -21,10 +21,11 @@ have perseverance to realise the great life"._       _-**Abdul kalam**_
 
 <br>
 
-### Most used languages
+<!--### Most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth353&hide=scss,less&theme=radical)](https://github.com/jayanth353/github-readme-stats)
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jayanth353.jayanth353)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jayanth353.jayanth353)-->
+
