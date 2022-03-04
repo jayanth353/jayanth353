@@ -1,6 +1,6 @@
 # Hi there, <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="50px"> I'm Jayanth
  
-I'm  2nd year computer science student.
+I'm  3rd year computer science student.
 
 _"Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and 
 have perseverance to realise the great life"._       _-**Abdul kalam**_ 
@@ -13,7 +13,7 @@ have perseverance to realise the great life"._       _-**Abdul kalam**_
 
 [![Twitter Badge](https://img.shields.io/badge/-@jayanth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jayanth_nalluri)](https://twitter.com/jayanth_nalluri) 
   [![Linkedin Badge](https://img.shields.io/badge/-jayanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayanth-nalluri-580692217/)](https://www.linkedin.com/in/jayanth-nalluri-580692217/) 
-  [![Mail Badge](https://img.shields.io/badge/-@jayanth-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jayanth_77_)
+ 
 
 ### GitHub stats
 
