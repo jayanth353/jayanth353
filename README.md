@@ -1,4 +1,4 @@
-# Hi there, <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="50px"> I'm Jayanth
+# Hi there, <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="50px"> I'm Tarun
  
 I'm  3rd year computer science student.
 
